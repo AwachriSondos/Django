@@ -1,4 +1,4 @@
-# Django
+# CLAIM 2020
 
 I'm dropping here a slide deck; summerizing the project I was involved in, as a data anlalyst and web developer, for the National Insitute of Marine technologies of Tunisia, INSTM, CLIAM 2020 Porject.
 
